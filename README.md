@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Mario Aleynikoff
 
-I'm a young geophysicist with passion and ability for:
+I'm a young geophysicist studying a Master degree in mechatronics with passion and ability for:
 - 🐍  Python desktop apps development
 - 📱   Flutter crossplatform apps development
 - 🌎  Applied geophysics
 - 📈  Petrophysics and Well Logs
+- Embedding development
 - 👍  Find ways to solve complex problems through hard work, persistance, and collaboration
 
 <!---
